@@ -1,0 +1,21 @@
+
+# Streamlit secrets and credentials
+.streamlit/secrets.toml
+.env
+.env.*
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Logs and temporary files
+*.log
+.DS_Store
